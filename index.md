@@ -1,15 +1,13 @@
-<header>
-Things to Do
-============
-</header>
-<main>
-At Home
-=======
+# Things to Do
+
+## At Home
 *    Mow the cat
 *    Feed the lawn
 
-At the Office
-=============
+## At the Office
+### Morning
 *    Learn Markdown
 *    Use Big-O notation in a clever way
-</main>
+### Afternoon
+*    Read e-mails
+*    Scrutinize LOLcats
