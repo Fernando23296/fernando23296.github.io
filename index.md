@@ -1,5 +1,5 @@
 # Fernando Silva
-<b>Email:</b> fernando23296@gmail.com
+<b>Email:</b> fernando23296@gmail.com <br>
 <b>Twitter:</b> [@fernando232s](https://www.twitter.com/fernando232s)
 
 
