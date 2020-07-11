@@ -1,7 +1,8 @@
 h1 {
   color: blue;
-  font-family:Delicious; src: url('Delicious-Roman.otf');
-}
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+ }
 p {
   color: red;
 }
