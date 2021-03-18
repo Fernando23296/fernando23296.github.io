@@ -1,8 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /~msaveski
-root: /octo-5
+baseurl: /PROJECT
+url: http:/fernando.github.io
 
 collections:
   projects:
