@@ -2,6 +2,7 @@ source:      .
 destination: ./_site
 includes:    ./_includes
 baseurl: /~msaveski
+root: /octo-5
 
 collections:
   projects:
