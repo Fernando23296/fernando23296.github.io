@@ -22,6 +22,7 @@ MSc Intelligent Interactive Systems student at Pompeu Fabra University
 * Machine Learning 1st Edition (Online, 2020)
 * Supervised Learning Edition (La Paz, 2019)
 
+
 # Research
 * Reinforcement Learning for the autonomous flight of a UAV.
 
@@ -31,6 +32,6 @@ MSc Intelligent Interactive Systems student at Pompeu Fabra University
 # Education
 
 * MSc in Intelligent Interactive Systems, Pompeu Fabra University 🇪🇸 (currently enrolled)
-* Diploma in Artificial Inteligence, University of Chile 🇨🇱
+* Postgraduate in Artificial Inteligence, University of Chile 🇨🇱
 * BA in Systems Engineering, Bolivian Catholic University 🇧🇴
 
