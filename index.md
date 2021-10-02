@@ -28,4 +28,9 @@ MSc Intelligent Interactive Systems student at Pompeu Fabra University
 # Publications
 * [Decision support system based on machine learning for the evaluation and detection of idiopathic scoliosis in adolescent age](http://www.bibvirtual.ucb.edu.bo:8000/opac/Record/101005393/Description#tabnav)
 <br/>
+# Education
+
+* MSc in Intelligent Interactive Systems, Pompeu Fabra University 🇪🇸 (currently enrolled)
+* Diploma in Artificial Inteligence, University of Chile 🇨🇱
+* BA in Systems Engineering, Bolivian Catholic University 🇧🇴
 
