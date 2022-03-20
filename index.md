@@ -5,7 +5,8 @@
 <b>Medium:</b> [@fernando232s](https://fernando232s.medium.com/)
 
 MSc Intelligent Interactive Systems student at Pompeu Fabra University
-, doing research on autonomous UAVs at the University of Buenos Aires.
+, doing research on Reinforcement Learning at Pompeu Fabra University.
+Other interests: Graph Neural Networks, Social Data Science and Robotics.
 
 # Talks and workshops given by me
 * Generative Adversarial Networks in a Nutshell (Google Developers Group La Paz  & Saturdays AI La Paz) [Online][2021]
@@ -24,7 +25,7 @@ MSc Intelligent Interactive Systems student at Pompeu Fabra University
 
 
 # Research
-* Reinforcement Learning for the autonomous flight of a UAV.
+* Reinforcement Learning
 
 # Publications
 * [Decision support system based on machine learning for the evaluation and detection of idiopathic scoliosis in adolescent age](http://www.bibvirtual.ucb.edu.bo:8000/opac/Record/101005393/Description#tabnav)
